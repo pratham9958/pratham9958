@@ -12,7 +12,7 @@
 
 - 📝 Twitter [@prathamkumar708](@prathamkumar708)
 
-- 💬 Ask me about **SQL, HTML**
+- 💬 Ask me about **SQL, HTML, WEB DEVELOPMENT**
 
 - 📫 How to reach me **prathamkumar708@gmail.com**
 
